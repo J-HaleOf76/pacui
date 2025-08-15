@@ -1,4 +1,10 @@
 
+<div style="border: 2px solid red; padding: 10px; background-color: #ffe5e5;">
+  <strong>🚨 Because of multiple reasons, development of PacUI will no longer continue on Github, but on Codeberg here: [https://codeberg.org/excalibur1234/pacui](https://codeberg.org/excalibur1234/pacui).</strong>
+  
+  I have had only ssh access to this repository for the last couple of years, therefore i could not react to Issues. Please install the latest version of PacUI via manual installation and all problems should be solved.
+</div>
+
 # PacUI
 
 PacUI provides useful and advanced Pacman and Yay/Pikaur/Aurman/Pakku/Trizen/Paru/Pacaur/Pamac-cli commands in a convenient and easy to use text interface.
